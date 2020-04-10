@@ -1,3 +1,4 @@
 Just a test for git.
 Another test.
 製造衝突
+Oh, my god.
